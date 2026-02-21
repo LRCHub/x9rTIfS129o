@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "曖昧信仰",
+  "base_artist": "ねんね",
+  "createdAt": "2026-02-21T07:10:25.264634Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "曖昧信仰",
+      "artist": "ねんね",
+      "has_synced": false,
+      "path": "select/pl_01_曖昧信仰_ねんね.txt"
+    }
+  ]
+}
